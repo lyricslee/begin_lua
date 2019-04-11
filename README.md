@@ -1,2 +1,2 @@
-- a beginners guide to lua programming 
+- a beginners guide to lua programming in chinese
 - [website](https://lyricslee.github.io/begin_lua/)
